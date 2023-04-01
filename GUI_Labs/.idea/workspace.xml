@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcfc9c77-f8d9-4d25-9b53-e794167e87cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question1/RetailPriceCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question1/RetailPriceCalcDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question2/MonthlySalesTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question2/MonthlySalesTaxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question4/TravelExpenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question4/TripPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question6/JoeAutomotive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab1Question9/MPG_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question1/ScrollableTaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question2/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question2/ryan-yao-VURwPtZqyF4-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question3/DormAndMealPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question5/BookPrices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question5/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question9/DiceSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question9/dice_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question9/dice_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question9/dice_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question9/dice_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question9/dice_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lab2Question9/dice_6.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N0VgqQaKd2ZwQ8S7xwsksNYxy9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ashna/Documents/CS_349/Lab_GUI",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ashna\Documents\CS_349\Lab_GUI\src\Lab2Question2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScrollableTaxCalculator">
+    <configuration name="JoeAutomotive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1Question6.JoeAutomotive" />
+      <module name="Lab_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1Question6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MPG_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1Question9.MPG_Calculator" />
+      <module name="Lab_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1Question9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonthlySalesTaxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1Question2.MonthlySalesTaxDemo" />
+      <module name="Lab_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1Question2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollableTaxCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2Question1.ScrollableTaxCalculator" />
+      <module name="Lab_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab2Question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelExpenses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1Question4.TravelExpenses" />
+      <module name="Lab_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1Question4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScrollableTaxCalculator" />
+        <item itemvalue="Application.MPG_Calculator" />
+        <item itemvalue="Application.JoeAutomotive" />
+        <item itemvalue="Application.TravelExpenses" />
+        <item itemvalue="Application.MonthlySalesTaxDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcfc9c77-f8d9-4d25-9b53-e794167e87cf" name="Changes" comment="" />
+      <created>1678801102149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678801102149</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
